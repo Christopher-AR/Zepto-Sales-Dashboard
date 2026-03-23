@@ -25,3 +25,4 @@ Inspired by and credited to **Datasaathi** (YouTube Channel).
 3.  **Trend Analysis:** Observe the 'Year Sales' area chart to understand year-over-year growth and declines.
 
 ## Preview
+https://github.com/Christopher-AR/Zepto-Sales-Dashboard/blob/main/Snapshot.png
